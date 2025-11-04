@@ -1,2 +1,5 @@
-# Me
-Intro
+- Hello!
+
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=raydenlim&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raydenlim&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
